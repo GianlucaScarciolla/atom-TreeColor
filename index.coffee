@@ -7,4 +7,4 @@ module.exports =
                                @colorFolder.colorFolderCommand.bind @colorFolder
 
     atom.commands.add "atom-workspace", "treecolor:uncolor-folder",
-                               @colorFolder.uncolorFolderCommand.bind @colorFolder
+                               @colorFolder.uncolorFolder.bind @colorFolder

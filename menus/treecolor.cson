@@ -1,4 +1,4 @@
 'context-menu':
   '.tree-view .directory .header': [
-    { label: 'ColorFolder', command: 'treecolor:color-folder'}
+    { label: 'Color Folder', command: 'treecolor:color-folder'}
   ]
