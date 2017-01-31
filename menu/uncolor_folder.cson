@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'TreeColor'
+      'submenu': [
+        {
+          'label': 'Uncolor Folders'
+          'command': 'treecolor:uncolor-folder'
+        }
+      ]
+    ]
+  }
+]
