@@ -26,3 +26,7 @@ The TreeColor can be installed through Atom. Alternatively, you can use `apm`:
   * Uncolor folders by using with the command bar or keys:
     * Mac: `ALT + CMD + 2`
     * Windows/Linux: `ALT + CTRL + 2`
+
+##Todos
+* add ability to use own colors.
+* add ability to save state folder colors when the project is reopened.
