@@ -1,7 +1,7 @@
 '.platform-darwin':
-  'alt-cmd-1': 'treecolor:color-folder',
-  'alt-cmd-2': 'treecolor:uncolor-folder'
+  'alt-cmd-Y': 'treecolor:color-folder',
+  'alt-cmd-X': 'treecolor:uncolor-folder'
 
 '.platform-win32, .platform-linux':
-  'alt-ctrl-1': 'treecolor:color-folder',
-  'alt-ctrl-2': 'treecolor:uncolor-folder'
+  'alt-ctrl-Y': 'treecolor:color-folder',
+  'alt-ctrl-X': 'treecolor:uncolor-folder'
