@@ -1,13 +1,11 @@
 # Change Log
 
-## 0.3.0
-
-* renamed files
-
-## 0.2.0
+## 0.1.1
 
 * renamed files
 * moved Index
+* renamed files
+* fixed bugs
 
 ## 0.1.0
 
