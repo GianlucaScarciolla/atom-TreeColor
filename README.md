@@ -20,12 +20,12 @@ The TreeColor can be installed through Atom. Alternatively, you can use `apm`:
 * Color
   * Color Folders from context menu in tree view
   * Color Folder by using
-    * Mac: `ALT + CMD + 1`
-    * Windows/Linux: `ALT + CTRL + 1`
+    * Mac: `ALT + CMD + y`
+    * Windows/Linux: `ALT + CTRL + y`
 * Uncolor everything
   * Uncolor folders by using with the command bar or keys:
-    * Mac: `ALT + CMD + 2`
-    * Windows/Linux: `ALT + CTRL + 2`
+    * Mac: `ALT + CMD + x`
+    * Windows/Linux: `ALT + CTRL + x`
 
 ##Todos
 * add ability to use own colors.
