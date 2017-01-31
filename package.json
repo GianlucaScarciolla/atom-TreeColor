@@ -1,6 +1,6 @@
 {
   "name": "TreeColor",
-  "main": "inex.coffee",
+  "main": "index.coffee",
   "version": "1.0.0",
   "description": "Change the Color from the Folders in the Tree View",
   "author": {
