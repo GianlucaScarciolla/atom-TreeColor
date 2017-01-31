@@ -1,0 +1,24 @@
+{
+  "name": "TreeColor",
+  "main": "inex.coffee",
+  "version": "0.0.1",
+  "description": "Change the Color from the Folders in the Tree View",
+  "author": {
+    "name": "Gianluca Scarciolla",
+    "email": "gscarciolla@mchd.ch",
+    "url": "https://github.com/GianlucaScarciolla"
+  },
+  "keywords": [
+    "Treeview",
+    "Color",
+    "folders"
+  ],
+  "repository": "https://github.com/GianlucaScarciolla/atom-TreeColor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/imamathwiz/atom-hide-files/issues"
+  }
+}

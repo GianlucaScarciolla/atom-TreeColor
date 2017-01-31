@@ -1,0 +1,7 @@
+'.platform-darwin':
+  'shift-cmd-C': 'treecolor:color-folder',
+  'shift-cmd-U': 'treecolor:uncolor-folder'
+
+'.platform-win32, .platform-linux':
+  'shift-ctrl-C': 'treecolor:color-folder',
+  'shift-ctrl-U': 'treecolor:uncolor-folder'
