@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.0.3
+
+* Fixed Keymaps
+
+## 1.0.2
+
+* Failed Keymaps
+
+## 1.0.1
+
+* Fixed index
+
+## 0.4.0 - 0.7.0
+
+* ERRORS
+
 ## 0.1.1
 
 * renamed files
