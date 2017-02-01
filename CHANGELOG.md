@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.6
+
+* ability to use own Colors
+
 ## 1.0.3
 
 * Fixed Keymaps
