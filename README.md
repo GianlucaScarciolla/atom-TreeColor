@@ -28,5 +28,7 @@ The TreeColor can be installed through Atom. Alternatively, you can use `apm`:
     * Windows/Linux: `ALT + CTRL + x`
 
 ##Todos
-* add ability to use own colors.
+* add ability to remove color from one folder
+* better input design
+* cancel button for input field
 * add ability to save state folder colors when the project is reopened.
